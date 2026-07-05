@@ -104,7 +104,7 @@ body {
     background: transparent;
     border: 2px solid rgba(255, 255, 255, .2);
     color: #fff;
-    transition: .5s;
+    transition: 0.5s;
 }
 
 .register-link {
